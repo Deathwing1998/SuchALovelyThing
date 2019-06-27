@@ -29,7 +29,7 @@ int main()
 	int mas[] = { 0,3,0,0,0,3 };
 	bool a = true;
 	func("roza upala na lapu azora", t1);
-	func("", t2);
+	func("klara ukrala u karla korali", t2);
 	for (int i = 0; i < 6; i++)
 	{
 		if (t1[i] != arr[i] || t2[i] != mas[i])
